@@ -1,2 +1,6 @@
 text in main
+<<<<<<< HEAD
 New
+=======
+Line for rebase
+>>>>>>> 60f62df (Commit in rebase-branch)
